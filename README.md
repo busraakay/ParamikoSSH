@@ -23,3 +23,6 @@ komutunu giriyoruz. Burada bulunan inet ve yanındaki rakamlar bize IP adresini 
 ![Bash](https://github.com/busraakay/ForReadme/blob/master/bash.JPG)
 <br> <br>
 Ubuntu'ya giriş yaptığımız kullanıcı adı, şifre ve elde ettiğimiz IP adresini artık kodlarımızda kullanabiliriz.
+
+
+[Uygulama kodları için tıklayınız.](https://github.com/busraakay/ParamikoSSH/blob/master/paramiko.ipynb)
